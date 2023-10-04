@@ -1,0 +1,6 @@
+/* Estilos para quebra de linha em dispositivos móveis para o campo de e-mail */
+@media (max-width: 420px) {
+    .email-break {
+        white-space: normal;
+    }
+}
