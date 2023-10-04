@@ -15,7 +15,7 @@ O sistema e desenvolvido em PHP, JavaScript, MySql e Bootstrap.
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/viniciusferreiradev/cadastro-aluno.git
 ```
 
 Entre no diretório do projeto
